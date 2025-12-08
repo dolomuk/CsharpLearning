@@ -1,0 +1,14 @@
+C:\my_project\my_csharp\CsharpLearning\ValueTypeDataCastingApp\bin\Debug\net9.0\ValueTypeDataCastingApp.exe
+C:\my_project\my_csharp\CsharpLearning\ValueTypeDataCastingApp\bin\Debug\net9.0\ValueTypeDataCastingApp.deps.json
+C:\my_project\my_csharp\CsharpLearning\ValueTypeDataCastingApp\bin\Debug\net9.0\ValueTypeDataCastingApp.runtimeconfig.json
+C:\my_project\my_csharp\CsharpLearning\ValueTypeDataCastingApp\bin\Debug\net9.0\ValueTypeDataCastingApp.dll
+C:\my_project\my_csharp\CsharpLearning\ValueTypeDataCastingApp\bin\Debug\net9.0\ValueTypeDataCastingApp.pdb
+C:\my_project\my_csharp\CsharpLearning\ValueTypeDataCastingApp\obj\Debug\net9.0\ValueTypeDataCastingApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\my_project\my_csharp\CsharpLearning\ValueTypeDataCastingApp\obj\Debug\net9.0\ValueTypeDataCastingApp.AssemblyInfoInputs.cache
+C:\my_project\my_csharp\CsharpLearning\ValueTypeDataCastingApp\obj\Debug\net9.0\ValueTypeDataCastingApp.AssemblyInfo.cs
+C:\my_project\my_csharp\CsharpLearning\ValueTypeDataCastingApp\obj\Debug\net9.0\ValueTypeDataCastingApp.csproj.CoreCompileInputs.cache
+C:\my_project\my_csharp\CsharpLearning\ValueTypeDataCastingApp\obj\Debug\net9.0\ValueTypeDataCastingApp.dll
+C:\my_project\my_csharp\CsharpLearning\ValueTypeDataCastingApp\obj\Debug\net9.0\refint\ValueTypeDataCastingApp.dll
+C:\my_project\my_csharp\CsharpLearning\ValueTypeDataCastingApp\obj\Debug\net9.0\ValueTypeDataCastingApp.pdb
+C:\my_project\my_csharp\CsharpLearning\ValueTypeDataCastingApp\obj\Debug\net9.0\ValueTypeDataCastingApp.genruntimeconfig.cache
+C:\my_project\my_csharp\CsharpLearning\ValueTypeDataCastingApp\obj\Debug\net9.0\ref\ValueTypeDataCastingApp.dll

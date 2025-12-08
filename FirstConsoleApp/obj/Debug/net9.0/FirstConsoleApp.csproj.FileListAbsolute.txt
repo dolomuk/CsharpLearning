@@ -1,0 +1,14 @@
+C:\my_project\my_csharp\CsharpLearning\FirstConsoleApp\bin\Debug\net9.0\FirstConsoleApp.exe
+C:\my_project\my_csharp\CsharpLearning\FirstConsoleApp\bin\Debug\net9.0\FirstConsoleApp.deps.json
+C:\my_project\my_csharp\CsharpLearning\FirstConsoleApp\bin\Debug\net9.0\FirstConsoleApp.runtimeconfig.json
+C:\my_project\my_csharp\CsharpLearning\FirstConsoleApp\bin\Debug\net9.0\FirstConsoleApp.dll
+C:\my_project\my_csharp\CsharpLearning\FirstConsoleApp\bin\Debug\net9.0\FirstConsoleApp.pdb
+C:\my_project\my_csharp\CsharpLearning\FirstConsoleApp\obj\Debug\net9.0\FirstConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\my_project\my_csharp\CsharpLearning\FirstConsoleApp\obj\Debug\net9.0\FirstConsoleApp.AssemblyInfoInputs.cache
+C:\my_project\my_csharp\CsharpLearning\FirstConsoleApp\obj\Debug\net9.0\FirstConsoleApp.AssemblyInfo.cs
+C:\my_project\my_csharp\CsharpLearning\FirstConsoleApp\obj\Debug\net9.0\FirstConsoleApp.csproj.CoreCompileInputs.cache
+C:\my_project\my_csharp\CsharpLearning\FirstConsoleApp\obj\Debug\net9.0\FirstConsoleApp.dll
+C:\my_project\my_csharp\CsharpLearning\FirstConsoleApp\obj\Debug\net9.0\refint\FirstConsoleApp.dll
+C:\my_project\my_csharp\CsharpLearning\FirstConsoleApp\obj\Debug\net9.0\FirstConsoleApp.pdb
+C:\my_project\my_csharp\CsharpLearning\FirstConsoleApp\obj\Debug\net9.0\FirstConsoleApp.genruntimeconfig.cache
+C:\my_project\my_csharp\CsharpLearning\FirstConsoleApp\obj\Debug\net9.0\ref\FirstConsoleApp.dll
