@@ -1,0 +1,15 @@
+C:\my_project\my_csharp\CsharpLearning\Dictionary\bin\Debug\net9.0\Dictionary.exe
+C:\my_project\my_csharp\CsharpLearning\Dictionary\bin\Debug\net9.0\Dictionary.deps.json
+C:\my_project\my_csharp\CsharpLearning\Dictionary\bin\Debug\net9.0\Dictionary.runtimeconfig.json
+C:\my_project\my_csharp\CsharpLearning\Dictionary\bin\Debug\net9.0\Dictionary.dll
+C:\my_project\my_csharp\CsharpLearning\Dictionary\bin\Debug\net9.0\Dictionary.pdb
+C:\my_project\my_csharp\CsharpLearning\Dictionary\obj\Debug\net9.0\Dictionary.GeneratedMSBuildEditorConfig.editorconfig
+C:\my_project\my_csharp\CsharpLearning\Dictionary\obj\Debug\net9.0\Dictionary.AssemblyInfoInputs.cache
+C:\my_project\my_csharp\CsharpLearning\Dictionary\obj\Debug\net9.0\Dictionary.AssemblyInfo.cs
+C:\my_project\my_csharp\CsharpLearning\Dictionary\obj\Debug\net9.0\Dictionary.csproj.CoreCompileInputs.cache
+C:\my_project\my_csharp\CsharpLearning\Dictionary\obj\Debug\net9.0\Dictionary.sourcelink.json
+C:\my_project\my_csharp\CsharpLearning\Dictionary\obj\Debug\net9.0\Dictionary.dll
+C:\my_project\my_csharp\CsharpLearning\Dictionary\obj\Debug\net9.0\refint\Dictionary.dll
+C:\my_project\my_csharp\CsharpLearning\Dictionary\obj\Debug\net9.0\Dictionary.pdb
+C:\my_project\my_csharp\CsharpLearning\Dictionary\obj\Debug\net9.0\Dictionary.genruntimeconfig.cache
+C:\my_project\my_csharp\CsharpLearning\Dictionary\obj\Debug\net9.0\ref\Dictionary.dll
