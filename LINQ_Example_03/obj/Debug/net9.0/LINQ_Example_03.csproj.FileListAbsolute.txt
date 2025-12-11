@@ -1,0 +1,15 @@
+C:\my_project\my_csharp\CsharpLearning\LINQ_Example_03\bin\Debug\net9.0\LINQ_Example_03.exe
+C:\my_project\my_csharp\CsharpLearning\LINQ_Example_03\bin\Debug\net9.0\LINQ_Example_03.deps.json
+C:\my_project\my_csharp\CsharpLearning\LINQ_Example_03\bin\Debug\net9.0\LINQ_Example_03.runtimeconfig.json
+C:\my_project\my_csharp\CsharpLearning\LINQ_Example_03\bin\Debug\net9.0\LINQ_Example_03.dll
+C:\my_project\my_csharp\CsharpLearning\LINQ_Example_03\bin\Debug\net9.0\LINQ_Example_03.pdb
+C:\my_project\my_csharp\CsharpLearning\LINQ_Example_03\obj\Debug\net9.0\LINQ_Example_03.GeneratedMSBuildEditorConfig.editorconfig
+C:\my_project\my_csharp\CsharpLearning\LINQ_Example_03\obj\Debug\net9.0\LINQ_Example_03.AssemblyInfoInputs.cache
+C:\my_project\my_csharp\CsharpLearning\LINQ_Example_03\obj\Debug\net9.0\LINQ_Example_03.AssemblyInfo.cs
+C:\my_project\my_csharp\CsharpLearning\LINQ_Example_03\obj\Debug\net9.0\LINQ_Example_03.csproj.CoreCompileInputs.cache
+C:\my_project\my_csharp\CsharpLearning\LINQ_Example_03\obj\Debug\net9.0\LINQ_Example_03.sourcelink.json
+C:\my_project\my_csharp\CsharpLearning\LINQ_Example_03\obj\Debug\net9.0\LINQ_Example_03.dll
+C:\my_project\my_csharp\CsharpLearning\LINQ_Example_03\obj\Debug\net9.0\refint\LINQ_Example_03.dll
+C:\my_project\my_csharp\CsharpLearning\LINQ_Example_03\obj\Debug\net9.0\LINQ_Example_03.pdb
+C:\my_project\my_csharp\CsharpLearning\LINQ_Example_03\obj\Debug\net9.0\LINQ_Example_03.genruntimeconfig.cache
+C:\my_project\my_csharp\CsharpLearning\LINQ_Example_03\obj\Debug\net9.0\ref\LINQ_Example_03.dll
